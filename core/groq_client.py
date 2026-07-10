@@ -1,8 +1,4 @@
-"""
-Thin wrapper around the Groq chat completion API.
-All LLM calls in the app go through this module so the model name /
-parameters are easy to change in one place.
-"""
+
 import os
 import json
 from groq import Groq
