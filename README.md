@@ -1,4 +1,4 @@
-# 🎤 AI Live Interviewer (v2)
+# 🎤 AI Live Interviewer 
 
 A Streamlit app that runs a full mock interview from your resume + a job description:
 parses skills/projects, asks unlimited questions across **Intro → Technical → Coding → HR**
